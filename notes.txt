@@ -1,0 +1,11 @@
+browser reads css from right to left 
+
+
+.classOne .classTwo {
+  //just .classTwo inside of .classOne
+}
+
+.classOne.classTwo {
+  //has both .classOne and .classTwo 
+}
+
